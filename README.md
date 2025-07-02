@@ -49,7 +49,8 @@ Aqui estão alguns dos projetos que você pode explorar. Clique no link de cada 
 * ### Os links ainda não estão levando para os projetos, estou organizando os mesmos primeiro
 
 * ### [**Projeto A: E-Commerce App (React Native)**](./Projecto-ReactNative-E-Commerce)
-  [teste](assets/GERADOR_DE_SENHA_DO_BAT.png)
+  [teste](assets/GERADOR_DE_SENHA_DO_BAT.png)![image](https://github.com/user-attachments/assets/69c3bf5f-94a9-43b0-8585-48e0b30e1e4e)
+
     Um aplicativo de e-commerce completo, focado na experiência do usuário e integração com API de produtos.
     *(Breve descrição do projeto e o que ele demonstra)*
 
